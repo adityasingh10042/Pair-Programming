@@ -7,7 +7,8 @@ using namespace std;
 #define fast ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);     
 const ull mod = 1e9+7; 
 
-int main(){
+int main()
+{
  fast;
  int n;
  cin >> n;
